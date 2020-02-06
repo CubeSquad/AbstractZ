@@ -43,7 +43,7 @@ a a:focus {
   animation-fill-mode: both;
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
-  background: #fff !important;
+  background: #282828 !important;
 }
 
 .top-nav-collapse .navbar-brand {
@@ -55,7 +55,7 @@ a a:focus {
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
-  color: #585b60 !important;
+  color: #fff !important;
   margin-top: 0px !important;
   margin-bottom: 0px !important;
 }
@@ -66,11 +66,11 @@ a a:focus {
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #E63D4F !important;
+  color: #f36b44 !important;
 }
 
 .indigo {
-  background: transparent;
+  background: #282828;
 }
 .navbar-brand img {
   width: 68%;
@@ -86,7 +86,7 @@ a a:focus {
 .navbar-expand-lg .navbar-nav .nav-link.active,
 .navbar-expand-lg .navbar-nav .nav-link.open,
 .navbar-expand-lg .navbar-nav .open > .nav-link {
-  color: #E63D4F !important;
+  color: #f36b44 !important;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link:focus,
@@ -108,11 +108,11 @@ a a:focus {
 }
 
 .slicknav_btn {
-  border-color: #E63D4F;
+  border-color: #f36b44;
 }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #E63D4F;
+  background: #f36b44;
 }
 
 /* only small tablets */
