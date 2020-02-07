@@ -39,7 +39,7 @@ h6 {
 }
 
 a {
-  color: #EB586F;
+  color: #f36b44;
   -moz-transition: 0.2s ease-in;
   -o-transition: 0.2s ease-in;
   -webkit-transition: 0.2s ease-in;
@@ -470,7 +470,7 @@ footer #copyright .nav-inline {
   height: 35px;
   text-align: center;
   display: inline-block;
-  border: 1px solid #EB586F;
+  border: 1px solid #f36b44;
   line-height: 35px;
   margin: 4px;
   width: 35px;
@@ -818,15 +818,15 @@ footer .menu li a:hover {
 
 /* Default Button */
 .btn-common, .btn-common:active, .btn-common:focus {
-  color: #EB586F;
-  border: 2px solid #EB586F;
+  color: #f36b44;
+  border: 3px solid #f36b44;
   background: transparent;
 }
 
 .btn-common:hover {
   color: #fff;
-  background: #EB586F;
-  border: 2px solid #EB586F;
+  background: #f36b44;
+  border: 3px solid #f36b44;
 }
 
 .btn-border {
@@ -2040,7 +2040,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .about h5 a:hover {
-  color: #EB586F;
+  color: #000000;
 }
 
 .about.block img {
