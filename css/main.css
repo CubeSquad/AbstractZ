@@ -1632,7 +1632,7 @@ nav#menu span.fa.fa-bars:hover {
 
 .service-box .service-icon i {
   font-size: 32px;
-  color: #EB586F;
+  color: #f36b44;
 }
 
 .service-box .service-content {
@@ -3848,7 +3848,7 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
 }
 
 .portfoli-content:before {
-  background-color: RGBA(235, 88, 111, 0.7);
+  background-color: RGBA(243, 107, 68, 0.7);
   top: 15px;
   left: 15px;
   bottom: 15px;
@@ -3906,7 +3906,7 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
 
 .sup-desc-wrap .sup-link a:hover {
   background: #fff;
-  color: #EB586F;
+  color: #f36b44;
 }
 
 .sup-desc-wrap .sup-link .left-link,
@@ -4043,8 +4043,8 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
 }
 
 .hovereffect .iocns a:hover {
-  background: #fff;
-  color: #EB586F;
+  background: #f36b44;
+  color: #fff;
 }
 
 .hovereffect-title h6,
@@ -4149,7 +4149,7 @@ figure {
   outline: none;
   border-radius: 4px;
   color: #fff;
-  background: #EB586F;
+  background: #f36b44;
   border: 1px solid transparent;
   width: 42px;
   height: 42px;

@@ -308,5 +308,5 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
 }
 .controls .active {
   color: #fff !important;
-  background: #E63D4F;
+  background: #f36b44;
 }
